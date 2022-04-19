@@ -13,3 +13,4 @@
 ## 更新
 将最近版本更新到test环境中 git checkout test； git merge dev
 ## 版本回滚
+git revert HEAD
